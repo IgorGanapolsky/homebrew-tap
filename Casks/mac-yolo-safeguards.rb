@@ -4,7 +4,7 @@ cask "mac-yolo-safeguards" do
 
   url "https://github.com/IgorGanapolsky/mac-yolo-safeguards-releases/releases/download/v#{version}/MacYoloSafeguards-#{version}.dmg"
   name "Mac YOLO Safeguards"
-  desc "Menu bar app that keeps AI coding agents from freezing your Mac"
+  desc "Menu bar app that shows and cleans up what AI coding agents leave running"
   homepage "https://macyolosafeguards.io/"
 
   livecheck do
