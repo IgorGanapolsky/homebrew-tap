@@ -1,6 +1,6 @@
 cask "mac-yolo-safeguards" do
-  version "1.2.10"
-  sha256 "a498e5d971524537b39dc3f33da019b2593cda20eb528f59c3a34348761979b6"
+  version "1.2.11"
+  sha256 "9e06574a3fc5155e0b1097d0c77ccbccf9d705321de8e9f1f151fe1c1fdf8176"
 
   url "https://github.com/IgorGanapolsky/mac-yolo-safeguards-releases/releases/download/v#{version}/MacYoloSafeguards-#{version}.dmg"
   name "Mac YOLO Safeguards"
